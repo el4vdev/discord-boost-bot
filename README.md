@@ -1,4 +1,4 @@
-⚡️ Discord Boost Bot UPDATED 17.3.24 ⚡️
+⚡️ Discord Boost Bot UPDATED 5.5.24 ⚡️
 
 🔥 NEW UNBOOST OPTION 🔥
 
