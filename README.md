@@ -2,7 +2,7 @@
 
 🔥 NEW UNBOOST OPTION 🔥
 
-I cleand this boost bot which previosly had a malware that steals files.
+I cleand this boost bot which previosly had a malware tha.t steals files.
 This version is fully cleaned, your welcome to check it, its open source.
 
 Features
